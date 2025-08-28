@@ -95,7 +95,7 @@ class InsertDialog(QDialog):
         main_window.load_data()
 
 
-class SearchDialgo(QDialog):
+class SearchDialog(QDialog):
     def __init__(self):
         super().__init__()
         # Set window title and size
